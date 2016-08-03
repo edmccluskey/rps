@@ -1,0 +1,7 @@
+[package]
+name = "rps"
+version = "0.1.0"
+authors = ["edmccluskey <ed.mccluskey@gmail.com>"]
+
+[dependencies]
+rand = "0.3.14"
